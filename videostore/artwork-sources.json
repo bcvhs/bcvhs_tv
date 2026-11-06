@@ -21,7 +21,8 @@
     "file": "covers/4.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/slaughter-high",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhs/slaughterhigh1.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhs/slaughterhigh1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhs/slaughterhigh1.jpg"
   },
   {
     "index": 0,
@@ -29,7 +30,8 @@
     "file": "covers/0.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/silent-night-deadly-night",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12673_silentnightdeadlynight-ive1%2520%2528VHSCollector.com%2529.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12673_silentnightdeadlynight-ive1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/12673_silentnightdeadlynight-ive1%2520%2528VHSCollector.com%2529.jpg"
   },
   {
     "index": 2,
@@ -37,7 +39,8 @@
     "file": "covers/2.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/final-exam",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12898_finalexam1.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12898_finalexam1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/12898_finalexam1.jpg"
   },
   {
     "index": 1,
@@ -45,7 +48,8 @@
     "file": "covers/1.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/graduation-day",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12905_GraduationDay.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12905_GraduationDay.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/12905_GraduationDay.jpg"
   },
   {
     "index": 6,
@@ -53,7 +57,8 @@
     "file": "covers/6.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/martial-law",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/26130_martiallaw-media1%2520%2528VHSCollector.com%2529.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/26130_martiallaw-media1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/26130_martiallaw-media1%2520%2528VHSCollector.com%2529.jpg"
   },
   {
     "index": 9,
@@ -61,7 +66,8 @@
     "file": "covers/9.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/deadly-bet",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/18104_deadlybet-pm1.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/18104_deadlybet-pm1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/18104_deadlybet-pm1.jpg"
   },
   {
     "index": 10,
@@ -69,7 +75,8 @@
     "file": "covers/10.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/robot-jox",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/16779_robotjox-rca1%2520%2528VHSCollector.com%2529%2520.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/16779_robotjox-rca1%2520%2528VHSCollector.com%2529%2520.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/16779_robotjox-rca1%2520%2528VHSCollector.com%2529%2520.jpg"
   },
   {
     "index": 8,
@@ -77,7 +84,8 @@
     "file": "covers/8.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/american-samurai",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/19541_American%2520Samurai%25201.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/19541_American%2520Samurai%25201.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/19541_American%2520Samurai%25201.jpg"
   },
   {
     "index": 7,
@@ -101,7 +109,8 @@
     "file": "covers/11.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/alien-intruder",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/16410_alienintruder-pm1.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/16410_alienintruder-pm1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/16410_alienintruder-pm1.jpg"
   },
   {
     "index": 12,
@@ -109,7 +118,8 @@
     "file": "covers/12.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/robot-wars",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/28450_Robot%2520Wars%2520-%25201.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/28450_Robot%2520Wars%2520-%25201.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/28450_Robot%2520Wars%2520-%25201.jpg"
   },
   {
     "index": 13,
@@ -117,7 +127,8 @@
     "file": "covers/13.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/alien-terminator",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/16422_alienterminator-newhorizons1.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/16422_alienterminator-newhorizons1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/16422_alienterminator-newhorizons1.jpg"
   },
   {
     "index": 18,
@@ -141,7 +152,8 @@
     "file": "covers/15.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/deadly-reactor",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/18153_deadlyreactor-aip1.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/18153_deadlyreactor-aip1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/18153_deadlyreactor-aip1.jpg"
   },
   {
     "index": 16,
@@ -149,7 +161,8 @@
     "file": "covers/16.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/killpoint",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/19638_killpoint-gemstone1%2520%2528VHSCollector.com%2529.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/19638_killpoint-gemstone1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/19638_killpoint-gemstone1%2520%2528VHSCollector.com%2529.jpg"
   },
   {
     "index": 22,
@@ -165,7 +178,8 @@
     "file": "covers/17.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/hollywood-cop",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/18028_hollywoodcop-celebrity1%2520%2528VHSCollector.com%2529.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/18028_hollywoodcop-celebrity1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/18028_hollywoodcop-celebrity1%2520%2528VHSCollector.com%2529.jpg"
   },
   {
     "index": 23,
@@ -176,16 +190,13 @@
     "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d9/Joysticks_FilmPoster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
   },
   {
-    "index": 24,
-    "title": "Screwballs"
-  },
-  {
     "index": 20,
     "title": "Private School",
     "file": "covers/20.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/private-school",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/29548_A1111.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/29548_A1111.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/29548_A1111.jpg"
   },
   {
     "index": 21,
@@ -193,6 +204,671 @@
     "file": "covers/21.jpg",
     "type": "VHS sleeve scan",
     "source": "https://vhscollector.com/movie/tomboy",
-    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/13660_tomboycover.jpg"
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/13660_tomboycover.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/13660_tomboycover.jpg"
+  },
+  {
+    "index": 24,
+    "title": "Screwballs",
+    "file": "covers/24.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Screwballs",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/aa/Screwballs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 29,
+    "title": "The Stuff",
+    "file": "covers/29.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Stuff",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/6/60/The-Stuff-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 25,
+    "title": "Night of the Demons",
+    "file": "covers/25.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Night_of_the_Demons_(1988_film)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/ac/Night_of_the_Demons_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 28,
+    "title": "Bad Dreams",
+    "file": "covers/28.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/bad-dreams",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/23342_baddreams-cbsfox1%2520%2528PineHollowVideo%2529%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/23342_baddreams-cbsfox1%2520%2528PineHollowVideo%2529%2520%2528VHSCollector.com%2529.jpg"
+  },
+  {
+    "index": 31,
+    "title": "Revenge of the Ninja",
+    "file": "covers/31.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Revenge_of_the_Ninja",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/76/Revenge_of_the_ninja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 32,
+    "title": "Ninja III The Domination",
+    "file": "covers/32.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Ninja_III%3A_The_Domination",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/b1/Ninja_III_The_Domination.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 26,
+    "title": "Demon Wind",
+    "file": "covers/26.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/demon-wind",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/14094_DemonWind-Paramount1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/14094_DemonWind-Paramount1.jpg"
+  },
+  {
+    "index": 27,
+    "title": "Brain Damage",
+    "file": "covers/27.jpg",
+    "type": "VHS sleeve scan (front panel of wraparound)",
+    "source": "https://vhscollector.com/movie/brain-damage",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/14841_Brain%2520Damage_0001_0.jpg",
+    "crop": "right",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/14841_Brain%2520Damage_0001_0.jpg"
+  },
+  {
+    "index": 33,
+    "title": "Best of the Best",
+    "file": "covers/33.jpg",
+    "source": "https://vhscollector.com/movie/best-best",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/24264_bestofthebest-svs1%2520%2528VHSCollector.com%2529.jpg",
+    "type": "VHS sleeve scan",
+    "crop": null,
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/24264_bestofthebest-svs1%2520%2528VHSCollector.com%2529.jpg"
+  },
+  {
+    "index": 30,
+    "title": "No Retreat No Surrender",
+    "file": "covers/30.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/no-retreat-no-surrender",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/21939_noretreatnosurrender-newworld1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/21939_noretreatnosurrender-newworld1%2520%2528VHSCollector.com%2529.jpg"
+  },
+  {
+    "index": 39,
+    "title": "Hell Comes to Frogtown",
+    "file": "covers/39.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Hell_Comes_to_Frogtown",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/5a/Hell_Comes_to_Frogtown.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 34,
+    "title": "American Ninja",
+    "file": "covers/34.jpg",
+    "type": "VHS sleeve scan (front panel of wraparound)",
+    "source": "https://vhscollector.com/movie/american-ninja",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/21313_American%2520Ninja%2520uk.jpg",
+    "crop": "right",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/21313_American%2520Ninja%2520uk.jpg"
+  },
+  {
+    "index": 40,
+    "title": "Picasso Trigger",
+    "file": "covers/40.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Picasso_Trigger",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d8/Picasso_Trigger_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 35,
+    "title": "Trancers",
+    "file": "covers/35.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/trancers",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/28456_Trancers%2520-%25201.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/28456_Trancers%2520-%25201.jpg"
+  },
+  {
+    "index": 42,
+    "title": "Miami Connection",
+    "file": "covers/42.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Miami_Connection",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/9/96/MiamiConnectionPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 37,
+    "title": "Arena",
+    "file": "covers/37.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/arena",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/16452_arenatonight-rca1%2520%2528VHSCollector.com%2529%2520.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/16452_arenatonight-rca1%2520%2528VHSCollector.com%2529%2520.jpg"
+  },
+  {
+    "index": 43,
+    "title": "The Taking of Beverly Hills",
+    "file": "covers/43.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Taking_of_Beverly_Hills",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/2/27/Beverlyhillsposter.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 38,
+    "title": "Cherry 2000",
+    "file": "covers/38.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/cherry-2000",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/16484_cherry2000-orion1%2520%2528VHSCollector.com%2529%2520.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/16484_cherry2000-orion1%2520%2528VHSCollector.com%2529%2520.jpg"
+  },
+  {
+    "index": 45,
+    "title": "Deadly Prey",
+    "file": "covers/45.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Deadly_Prey",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/54/Deadly-Prey-Sony-Video-Sleeve.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 36,
+    "title": "Hardware",
+    "file": "covers/36.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/hardware",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/15447_Hardware%2520%2528Front%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/15447_Hardware%2520%2528Front%2529.jpg"
+  },
+  {
+    "index": 44,
+    "title": "Stone Cold",
+    "file": "covers/44.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/stone-cold",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/26490_Stone%2520Cold%2520-%2520Front.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/26490_Stone%2520Cold%2520-%2520Front.jpg"
+  },
+  {
+    "index": 46,
+    "title": "Blood Debts",
+    "file": "covers/46.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/blood-debts",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/17380_blooddebt-continental1%2520%2528VHSCollector.com%2529%2520.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/17380_blooddebt-continental1%2520%2528VHSCollector.com%2529%2520.jpg"
+  },
+  {
+    "index": 48,
+    "title": "Deadly Outbreak",
+    "file": "covers/48.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/deadly-outbreak",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/18151_deadlyoutbreak-live1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/18151_deadlyoutbreak-live1.jpg"
+  },
+  {
+    "index": 51,
+    "title": "Private Resort",
+    "file": "covers/51.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/private-resort",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/19109_resort%2520f.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/19109_resort%2520f.jpg"
+  },
+  {
+    "index": 50,
+    "title": "Ski School",
+    "file": "covers/50.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/ski-school",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/25322_SkiSchool001.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/25322_SkiSchool001.jpg"
+  },
+  {
+    "index": 55,
+    "title": "Video Violence",
+    "file": "covers/55.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/video-violence",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12594_videoviolencebb1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/12594_videoviolencebb1.jpg"
+  },
+  {
+    "index": 52,
+    "title": "Porky’s",
+    "file": "covers/52.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/porkys",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/35279_porkys-vhs-1-28885.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/35279_porkys-vhs-1-28885.jpg"
+  },
+  {
+    "index": 47,
+    "title": "Nemesis",
+    "file": "covers/47.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/nemesis",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/16698_nemesis-imperial1%2520%2528VHSCollector.com%2529%2520.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/16698_nemesis-imperial1%2520%2528VHSCollector.com%2529%2520.jpg"
+  },
+  {
+    "index": 53,
+    "title": "Hardbodies",
+    "file": "covers/53.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Hardbodies",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hardbodiesposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 49,
+    "title": "Terror Squad",
+    "file": "covers/49.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/terror-squad",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/23765_terrorsquad-forum1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/23765_terrorsquad-forum1%2520%2528VHSCollector.com%2529.jpg"
+  },
+  {
+    "index": 41,
+    "title": "Hard Hunted",
+    "file": "covers/41.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/hard-hunted",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/18526_hardhunted-columbia1%2520%2528VHSCollector.com%2529%2520.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/18526_hardhunted-columbia1%2520%2528VHSCollector.com%2529%2520.jpg"
+  },
+  {
+    "index": 54,
+    "title": "Spring Break",
+    "file": "covers/54.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Spring_Break_(film)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/f/fb/Poster_of_the_movie_Spring_Break.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 62,
+    "title": "Feeders",
+    "file": "covers/62.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Feeders_(film)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/f/f2/Feeders_%281996%29_VHS_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 57,
+    "title": "Woodchipper Massacre",
+    "file": "covers/57.jpg",
+    "type": "VHS sleeve scan (front panel of wraparound)",
+    "source": "https://vhscollector.com/movie/woodchipper-massacre",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12617_WoodchipperMassacre.jpg",
+    "crop": "right",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/12617_WoodchipperMassacre.jpg"
+  },
+  {
+    "index": 61,
+    "title": "Tales from the Quadead Zone",
+    "file": "covers/61.jpg",
+    "source": "https://vhscollector.com/movie/tales-quadead-zone",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/14496_TalesFromTheQuadeadZone-BC1%2520%2528VHSCollector.com%2529%2520.jpg",
+    "type": "VHS sleeve scan",
+    "crop": null,
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/14496_TalesFromTheQuadeadZone-BC1%2520%2528VHSCollector.com%2529%2520.jpg"
+  },
+  {
+    "index": 58,
+    "title": "Splatter Farm",
+    "file": "covers/58.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/splatter-farm",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12938_splatterfarm1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/12938_splatterfarm1.jpg"
+  },
+  {
+    "index": 56,
+    "title": "Cannibal Campout",
+    "file": "covers/56.jpg",
+    "type": "VHS sleeve scan (front panel of wraparound)",
+    "source": "https://vhscollector.com/movie/cannibal-campout",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12616_CannibalCampout.jpg",
+    "crop": "right",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/12616_CannibalCampout.jpg"
+  },
+  {
+    "index": 60,
+    "title": "Sledgehammer",
+    "file": "covers/60.jpg",
+    "type": "VHS sleeve scan (front panel of wraparound)",
+    "source": "https://vhscollector.com/movie/sledgehammer",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12611_sledgehammer-vhs-0-99_0.jpg",
+    "crop": "right",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/12611_sledgehammer-vhs-0-99_0.jpg"
+  },
+  {
+    "index": 59,
+    "title": "Blood Cult",
+    "file": "covers/59.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/blood-cult",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/22705_slasher-plasma1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/22705_slasher-plasma1%2520%2528VHSCollector.com%2529.jpg"
+  },
+  {
+    "index": 65,
+    "title": "Moonchild",
+    "file": "covers/65.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/moonchild",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/14438_MoonChild-Englewood1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/14438_MoonChild-Englewood1.jpg"
+  },
+  {
+    "index": 68,
+    "title": "Killer Klowns from Outer Space",
+    "file": "covers/68.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Killer_Klowns_from_Outer_Space",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/7e/Killer_Klowns_from_Outer_Space_%281988%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 67,
+    "title": "Neon Maniacs",
+    "file": "covers/67.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/neon-maniacs",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/14460_NeonManiacs-Lightning1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/14460_NeonManiacs-Lightning1.jpg"
+  },
+  {
+    "index": 66,
+    "title": "Red Spirit Lake",
+    "file": "covers/66.jpg",
+    "type": "VHS sleeve scan (front panel of wraparound)",
+    "source": "https://vhscollector.com/movie/red-spirit-lake",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/17784_redspiritlake.jpg",
+    "crop": "right",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/17784_redspiritlake.jpg"
+  },
+  {
+    "index": 69,
+    "title": "The Nest",
+    "file": "covers/69.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Nest_(1988_film)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/ae/TheNestPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 70,
+    "title": "Basket Case",
+    "file": "covers/70.jpg",
+    "type": "VHS sleeve scan (front panel of wraparound)",
+    "source": "https://vhscollector.com/movie/basket-case",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12637_BasketCase.jpg",
+    "crop": "right",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/12637_BasketCase.jpg"
+  },
+  {
+    "index": 64,
+    "title": "Zombie Cop",
+    "file": "covers/64.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/zombie-cop",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/13184_zombiecop-cinemahome1%2520%2528VHSCollector.com%2529%2520.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/13184_zombiecop-cinemahome1%2520%2528VHSCollector.com%2529%2520.jpg"
+  },
+  {
+    "index": 74,
+    "title": "The Kindred",
+    "file": "covers/74.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Kindred_(1987_film)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/9/9c/Kindredfilmposter.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 71,
+    "title": "The Boogens",
+    "file": "covers/71.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Boogens",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/0/0f/The_Boogens_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 72,
+    "title": "The Deadly Spawn",
+    "file": "covers/72.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Deadly_Spawn",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/4/4b/The_Deadly_Spawn_%281983%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 73,
+    "title": "TerrorVision",
+    "file": "covers/73.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/terrorvision",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhs/terrorvision1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhs/terrorvision1.jpg"
+  },
+  {
+    "index": 78,
+    "title": "Deadbeat at Dawn",
+    "file": "covers/78.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Deadbeat_at_Dawn",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/1/12/Deadbeat_at_Dawn_%281988%29_Film_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 75,
+    "title": "Savage Streets",
+    "file": "covers/75.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/savage-streets",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/22537_savagestreets-vestron1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/22537_savagestreets-vestron1%2520%2528VHSCollector.com%2529.jpg"
+  },
+  {
+    "index": 76,
+    "title": "Blood Diner",
+    "file": "covers/76.jpg",
+    "type": "VHS sleeve scan (front panel of wraparound)",
+    "source": "https://vhscollector.com/movie/blood-diner",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/18109_blooddiner.jpg",
+    "crop": "right",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/18109_blooddiner.jpg"
+  },
+  {
+    "index": 79,
+    "title": "Vigilante",
+    "file": "covers/79.jpg",
+    "type": "VHS sleeve scan (front panel of wraparound)",
+    "source": "https://vhscollector.com/movie/vigilante",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/24557_Vigilante001.jpg",
+    "crop": "right",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/24557_Vigilante001.jpg"
+  },
+  {
+    "index": 63,
+    "title": "Redneck Zombies",
+    "file": "covers/63.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/redneck-zombies",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/29096_img707.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/29096_img707.jpg"
+  },
+  {
+    "index": 77,
+    "title": "Frankenhooker",
+    "file": "covers/77.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/frankenhooker",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/13030_frankenhooker1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/13030_frankenhooker1.jpg"
+  },
+  {
+    "index": 82,
+    "title": "Street Trash",
+    "file": "covers/82.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/street-trash",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/13428_street%2520trash%2520front.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/13428_street%2520trash%2520front.jpg"
+  },
+  {
+    "index": 81,
+    "title": "Hollywood Chainsaw Hookers",
+    "file": "covers/81.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/hollywood-chainsaw-hookers",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/14368_HollywoodChainsawHookers-Camp1.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/14368_HollywoodChainsawHookers-Camp1.jpg"
+  },
+  {
+    "index": 87,
+    "title": "The Hot Spot",
+    "file": "covers/87.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Hot_Spot",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/4/4b/The_Hot_Spot.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 83,
+    "title": "Ms .45",
+    "file": "covers/83.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/ms-45",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/12833_ms451.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/12833_ms451.jpg"
+  },
+  {
+    "index": 84,
+    "title": "Reform School Girls",
+    "file": "covers/84.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/reform-school-girls",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/24218_reformschoolgirls-newworld1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/24218_reformschoolgirls-newworld1%2520%2528VHSCollector.com%2529.jpg"
+  },
+  {
+    "index": 86,
+    "title": "The Last Seduction",
+    "file": "covers/86.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Last_Seduction",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/3d/The-Last-Seduction-Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 88,
+    "title": "The Grifters",
+    "file": "covers/88.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Grifters_(film)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/ae/TheGrifters.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 80,
+    "title": "Rolling Thunder",
+    "file": "covers/80.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/rolling-thunder",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/22509_rollingthunder-vestron1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/22509_rollingthunder-vestron1%2520%2528VHSCollector.com%2529.jpg"
+  },
+  {
+    "index": 85,
+    "title": "Night Moves",
+    "file": "covers/85.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/night-moves",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/21174_moves.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/21174_moves.jpg"
+  },
+  {
+    "index": 90,
+    "title": "52 Pick Up",
+    "file": "covers/90.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/52_Pick-Up",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/30/52_Pick-Up.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 89,
+    "title": "City of Industry",
+    "file": "covers/89.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/City_of_Industry_(film)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/6/65/City-of-Industry-Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 91,
+    "title": "The Conversation",
+    "file": "covers/91.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Conversation",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/e/e0/Theconversation.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 92,
+    "title": "The Friends of Eddie Coyle",
+    "file": "covers/92.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Friends_of_Eddie_Coyle",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/0/01/The_Friends_of_Eddie_Coyle.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 93,
+    "title": "The Outfit",
+    "file": "covers/93.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Outfit_(1973_film)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/ac/Theoutfitmovieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "type": "Original release artwork (poster)"
+  },
+  {
+    "index": 95,
+    "title": "The Driver",
+    "file": "covers/95.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Driver",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/a1/TheDriverPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 96,
+    "title": "The Long Goodbye",
+    "file": "covers/96.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/The_Long_Goodbye_(film)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/8/80/Longposter.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 94,
+    "title": "Charley Varrick",
+    "file": "covers/94.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/Charley_Varrick",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/a3/Charley_Varrick.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 97,
+    "title": "To Live and Die in L.A.",
+    "file": "covers/97.jpg",
+    "type": "Original release artwork (poster)",
+    "source": "https://en.wikipedia.org/wiki/To_Live_and_Die_in_L.A._(film)",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/6/61/To_Live_and_Die_in_L.A..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "index": 99,
+    "title": "Body Heat",
+    "file": "covers/99.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/body-heat",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/23831_body_0.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/23831_body_0.jpg"
+  },
+  {
+    "index": 98,
+    "title": "Red Rock West",
+    "file": "covers/98.jpg",
+    "type": "VHS sleeve scan",
+    "source": "https://vhscollector.com/movie/red-rock-west",
+    "imageURL": "https://vhscollector.com/sites/default/files/vhsimages/22472_redrockwest-columbia1%2520%2528VHSCollector.com%2529.jpg",
+    "displayImageURL": "https://vhscollector.com/sites/default/files/styles/318x250/public/vhsimages/22472_redrockwest-columbia1%2520%2528VHSCollector.com%2529.jpg"
   }
 ]
