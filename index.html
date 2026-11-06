@@ -309,6 +309,23 @@ function startScramble(incoming,outgoing){
  scrambleFrame=requestAnimationFrame(draw);scrambleEnd=setTimeout(stopScramble,12000);
 }
 
+// Resolve Archive storage hosts at runtime; keep catalog/source URLs canonical.
+const archiveHostCache=new Map();
+function archivePlaybackURL(original){
+ let file,id;try{const u=new URL(original);if(u.protocol!=='https:'||u.hostname!=='archive.org'||!u.pathname.startsWith('/download/'))return Promise.resolve(original);const parts=u.pathname.slice(10).split('/');id=decodeURIComponent(parts.shift());file=parts.map(p=>encodeURIComponent(decodeURIComponent(p))).join('/');if(!/^[A-Za-z0-9._-]+$/.test(id)||!file)return Promise.resolve(original);}catch(e){return Promise.resolve(original);}
+ const cached=archiveHostCache.get(id);let entry=cached;
+ if(!entry||entry.until<Date.now()){
+  const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),2000);
+  entry={until:Date.now()+60000,promise:null};
+  entry.promise=fetch('https://archive.org/metadata/'+encodeURIComponent(id),{signal:controller.signal}).then(r=>{if(!r.ok)throw Error('Archive lookup unavailable');return r.json()}).then(m=>{
+   if(typeof m.d1!=='string'||!/^([a-z0-9-]+\.)+archive\.org$/i.test(m.d1)||typeof m.dir!=='string'||!/^\/[A-Za-z0-9._~/-]+$/.test(m.dir)||m.dir.split('/').includes('..'))return null;
+   entry.until=Date.now()+1800000;return 'https://'+m.d1+m.dir.replace(/\/+$/,'')+'/';
+  }).catch(()=>null).finally(()=>clearTimeout(timer));
+  archiveHostCache.set(id,entry);while(archiveHostCache.size>128)archiveHostCache.delete(archiveHostCache.keys().next().value);
+ }
+ return entry.promise.then(base=>base?base+file:original);
+}
+
 let warmTimer=0;
 const warmFailures=new Map();
 function discardWarm(){prepVersion++;clearTimeout(warmTimer);warm=null;}
@@ -327,7 +344,7 @@ function prepareUpcoming(){
  function failed(){if(token!==prepVersion||deck===video)return;warmFailures.set(failureKey,Date.now()+60000);while(warmFailures.size>100)warmFailures.delete(warmFailures.keys().next().value);cancelWarm();}
  deck.pause();deck.muted=true;deck.preload='metadata';deck.onplaying=null;deck.onerror=failed;
  deck.onloadedmetadata=()=>{if(token!==prepVersion||deck===video)return;clearTimeout(warmTimer);try{deck.currentTime=next.p.sourceIn||0}catch(e){failed()}};
- warmTimer=setTimeout(failed,15000);deck.src=next.p.url;deck.load();
+ archivePlaybackURL(next.p.url).then(url=>{if(token!==prepVersion||deck===video)return;warmTimer=setTimeout(failed,15000);deck.src=url;deck.load();});
 }
 document.addEventListener('visibilitychange',()=>{if(document.hidden)cancelWarm();});
 
@@ -353,11 +370,14 @@ function tune(index,automatic=false){
   }catch(e){fail('Could not seek into this tape. Tap the channel to retry.');}
  }
  incoming.onloadedmetadata=activate;
- incoming.onerror=()=>fail('Signal unavailable. Tap this channel again to retry, or use the VHS source link.');
+ let playbackURL=prepared?(incoming.currentSrc||incoming.src):s.p.url,retriedOriginal=false;
+ function retryOriginal(){if(version!==tuneVersion||incoming!==video||playbackURL===s.p.url||retriedOriginal)return false;retriedOriginal=true;playbackURL=s.p.url;incoming.src=playbackURL;incoming.load();return true;}
+ incoming.onerror=()=>{if(version!==tuneVersion||incoming!==video)return;if(!retryOriginal())fail('Signal unavailable. Tap this channel again to retry, or try another station.');};
  incoming.onplaying=()=>{if(version!==tuneVersion||incoming!==video)return;const live=position(CHANNELS[selected]);if(live.key!==s.key){tune(selected,true);return;}if(ready&&activeKey===s.key){$('status').textContent='';syncNativeClock();return;}clearTimeout(slowTimer);$('signal-card').hidden=true;activeKey=s.key;waitingKey='';ready=true;$('status').textContent='';syncNativeClock();if(!scramble.hidden){clearTimeout(scrambleEnd);scrambleEnd=setTimeout(stopScramble,300)}
   if(outgoing!==incoming){outgoing.pause();outgoing.onloadedmetadata=null;outgoing.onerror=null;outgoing.onplaying=null;outgoing.removeAttribute('src');outgoing.load();}
  };
- function load(){if(version!==tuneVersion)return;if(prepared&&incoming.readyState>=1)activate();else{incoming.src=s.p.url;incoming.load();}slowTimer=setTimeout(()=>fail('Archive is taking a while. Tap this channel again to retry, or try another station.'),12000);}
+ function slowLoading(){if(version!==tuneVersion||incoming!==video||ready)return;stopScramble();$('status').textContent='Archive is loading slowly… Still trying. You can wait or choose another channel.';retryOriginal();}
+ async function load(){if(version!==tuneVersion)return;slowTimer=setTimeout(slowLoading,12000);if(prepared&&incoming.readyState>=1){activate();return;}const url=await archivePlaybackURL(s.p.url);if(version!==tuneVersion||incoming!==video)return;playbackURL=url;incoming.src=url;incoming.load();}
  if(prepared)load();else tuneTimer=setTimeout(load,140);
 }
 for(const deck of decks){
